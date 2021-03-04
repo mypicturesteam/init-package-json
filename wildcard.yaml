@@ -1,0 +1,4 @@
+test:
+ unit:
+ script:
+   - "npm init-package-json"
